@@ -37,6 +37,11 @@ clearly justify your choice of database.
     12. ({"name":"Steve","subject":"science","marks":77})
     13. ({"name":"Jan","subject":"english","marks":0,"reason":"absent"})
     ```
+    Give MongoDB statements (with results) for the following queries <br>
+    • Find the total marks for each student across all subjects.<br>
+    • Find the maximum marks scored in each subject.<br>
+    • Find the minimum marks scored by each student.<br>
+    • Find the top two subjects based on average marks.<br>
     ```
     Answer : 
     ```
